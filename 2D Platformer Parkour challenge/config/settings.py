@@ -1,0 +1,21 @@
+# settings.py
+WIDTH, HEIGHT = 800, 600
+FPS = 60
+TITLE = "Parkour Challenge"
+
+# Colors
+WHITE = (255, 255, 255)
+BLUE = (50, 150, 255)
+GREEN = (50, 200, 50)
+RED = (200, 50, 50)
+YELLOW = (255, 220, 50)
+DARK = (30, 30, 40)
+CYAN = (0, 255, 255)
+
+# Physics
+GRAVITY = 0.6
+JUMP_POWER = -14
+MOVE_SPEED = 5.5
+FLIGHT_SPEED = 6
+FLIGHT_DURATION = 1.3
+FLIGHT_COOLDOWN = 30
